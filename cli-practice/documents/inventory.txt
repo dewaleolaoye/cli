@@ -1,0 +1,4 @@
+Laptop - 12
+Monitor - 8
+Keyboard - 15
+Mouse - 15

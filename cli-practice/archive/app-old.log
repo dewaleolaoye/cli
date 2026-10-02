@@ -1,0 +1,6 @@
+INFO START Application started
+INFO CONFIG Configuration loaded
+WARN CONFIG Optional setting missing
+ERROR AUTH Login rejected user=U003
+INFO REQUEST Request completed request=R002
+INFO STOP Application stopped

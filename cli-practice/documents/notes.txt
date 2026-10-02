@@ -1,0 +1,8 @@
+Practice environment only.
+Keep source files unchanged.
+Put reports in outputs.
+Use backup for file copies.
+Read command help when unsure.
+Check your current folder before deleting.
+Search logs for ERROR and WARN.
+Quote names that contain spaces.
